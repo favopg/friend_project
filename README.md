@@ -9,7 +9,7 @@
 * githubで主に使う箇所は「issues」「pull request」の２つとなる
 
 # issuesの見方
-* 右側にAssigneesがあるので、Assigneesに名前が載ってるほうが担当者
+* 右側にAssigneesがあるので、Assigneesに名前が載ってるほうが担当者(入ってない場合はやってください笑)
 * labelは見ればわかると思います。
 * 主に使うのは上記２つです。
 
