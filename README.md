@@ -6,7 +6,7 @@
 
 # 利用方法
 * タスクについてはissuesで管理し、やり取りもissuesで行う
-* githubで主に使う箇所は「issues」「pull request」の２つとなる
+* githubで主に使う箇所は「issues」「pull request」「Wiki」の３つとなる
 
 # issuesの見方
 * 右側にAssigneesがあるので、Assigneesに名前が載ってるほうが担当者(入ってない場合はやってください笑)
