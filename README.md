@@ -6,7 +6,7 @@
 
 # 利用方法
 * タスクについてはissuesで管理し、やり取りもissuesで行う
-* githubで主に使う箇所は「issues」「pull request」「wiki」の３つとなる
+* githubで主に使う箇所は「issues」「pull request」の２つとなる
 
 # 注意事項
 * issuesは担当をイッシーにもするので、担当欄をよく確認すること
