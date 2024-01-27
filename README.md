@@ -2,7 +2,7 @@
 お友達プロジェクト
 
 # 当プロジェクトの目的
-すきま時間で、Java、Kotlin、Androidアプリ学習をしていくためのリポジトリ
+すきま時間で、Git、Gradle(ビルドツール) Java、Kotlin、Androidアプリ学習をしていくためのリポジトリ
 
 # 利用方法
 * タスクについてはissuesで管理し、やり取りもissuesで行う
